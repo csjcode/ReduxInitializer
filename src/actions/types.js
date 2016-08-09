@@ -1,1 +1,1 @@
-export CONST CHANGE_AUTH = 'change_auth';
+export const CHANGE_AUTH = 'change_auth';
